@@ -1,6 +1,6 @@
 # python-api-challenge
 
-This assignment focuses on analyzing weather and climate for a planned Vacation
+This assignment analyzes the weather data drawn from an API to compare with city data.
 
 Collaborated with Nick Bartram for this assignment
 
